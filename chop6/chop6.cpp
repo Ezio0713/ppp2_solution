@@ -5,7 +5,6 @@
 
 int main()
 {
-    //like
+
     std::cout << "Hello World!\n";
 }
-//feagew

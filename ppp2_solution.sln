@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chop6", "chop6\chop6.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "my_calculator", "my_calculator_1\my_calculator_1.vcxproj", "{05358E1B-884B-4601-B956-3F60AE7014A8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chop8", "chop8\chop8.vcxproj", "{63369248-EF0A-4F23-B5A0-7D868A7535C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{05358E1B-884B-4601-B956-3F60AE7014A8}.Release|x64.Build.0 = Release|x64
 		{05358E1B-884B-4601-B956-3F60AE7014A8}.Release|x86.ActiveCfg = Release|Win32
 		{05358E1B-884B-4601-B956-3F60AE7014A8}.Release|x86.Build.0 = Release|Win32
+		{63369248-EF0A-4F23-B5A0-7D868A7535C2}.Debug|x64.ActiveCfg = Debug|x64
+		{63369248-EF0A-4F23-B5A0-7D868A7535C2}.Debug|x64.Build.0 = Debug|x64
+		{63369248-EF0A-4F23-B5A0-7D868A7535C2}.Debug|x86.ActiveCfg = Debug|Win32
+		{63369248-EF0A-4F23-B5A0-7D868A7535C2}.Debug|x86.Build.0 = Debug|Win32
+		{63369248-EF0A-4F23-B5A0-7D868A7535C2}.Release|x64.ActiveCfg = Release|x64
+		{63369248-EF0A-4F23-B5A0-7D868A7535C2}.Release|x64.Build.0 = Release|x64
+		{63369248-EF0A-4F23-B5A0-7D868A7535C2}.Release|x86.ActiveCfg = Release|Win32
+		{63369248-EF0A-4F23-B5A0-7D868A7535C2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

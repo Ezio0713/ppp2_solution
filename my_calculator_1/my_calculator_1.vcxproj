@@ -21,9 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5543ec4e-3950-4e87-8411-904bce0efef2}</ProjectGuid>
-    <RootNamespace>chop6</RootNamespace>
+    <ProjectGuid>{05358e1b-884b-4601-b956-3f60ae7014a8}</ProjectGuid>
+    <RootNamespace>mycalculator1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>my_calculator</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -127,11 +128,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="calculator.cpp" />
-    <ClCompile Include="chop6.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="std_lib_facilities.h" />
+    <ClCompile Include="ds_cpp.cpp" />
+    <ClCompile Include="my_calculator_1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

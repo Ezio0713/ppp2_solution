@@ -18,5 +18,13 @@
     <ClCompile Include="chop6.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="calculator.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="std_lib_facilities.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
